@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramshanadeem
-- 👀 I’m interested in Front End also  create API
-- 🌱 I’m currently learning Mern App
+- 👀 I’m interested in Frontend development 
+- 🌱 I have experienced in frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rimshanadeem64@gmail.com
 
